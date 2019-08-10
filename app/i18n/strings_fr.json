@@ -202,7 +202,16 @@
     "NO_RESULTS":"Pas de résultat",
     "REMOVE_FAIL":"Impossible de retirer",
     "CONNECTED":"Connecté",
-    "DISCONNECTED":"Déconnecté"
+    "DISCONNECTED":"Déconnecté",
+    "LOGIN":"Login",
+    "LOGOUT":"Logout",
+    "USERNAME":"Nom d'utilisateur",
+    "PASSWORD":"Mot de passe",
+    "LOGGING_IN":"Se connecter",
+    "LOGIN_SUCCESS": "Connexion réussie",
+    "LOGIN_FAIL":"Echec de connexion",
+    "LOGGING_OUT":"Déconnexion",
+    "LOGOUT_SUCCESS":"Déconnexion réussie"
   },
   "APPEARANCE":{
     "APPEARANCE":"Apparence",
